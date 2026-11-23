@@ -1,0 +1,6 @@
+{
+  "name": "TV Pad",
+  "description": "Offline Bluetooth HID gamepad controller for playing games on TV without internet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

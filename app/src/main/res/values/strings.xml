@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TV Pad</string>
+    <string name="cd_dpad_center">Directional Pad</string>
+    <string name="cd_left_stick">Left Analog Stick</string>
+    <string name="cd_right_stick">Right Analog Stick</string>
+    <string name="cd_bt_settings">Bluetooth Connection</string>
+    <string name="cd_controller_settings">Controller Settings</string>
+    <string name="cd_tv_home">TV Home</string>
+    <string name="cd_tv_back">TV Back</string>
+    <string name="cd_tv_vol_down">TV Volume Down</string>
+    <string name="cd_tv_vol_up">TV Volume Up</string>
+    <string name="cd_rotate_orientation">Toggle Screen Orientation</string>
+</resources>
